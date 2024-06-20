@@ -1,6 +1,6 @@
 body {
-  background-color: #794c13;
-  color: #FE4261;
+  background-color: #afeeee;
+  color: #000080;
 }
 
 h1 {
@@ -26,13 +26,10 @@ h3 {
 }
 
 .iniad {
-  color: #2669a4;
-  background-color: #9933ff;
+  color: #4169e1;
+  background-color: #fff;
 }
 
-.iniad {
-  color: #00cc00;
-}
 
 .time {
   font-weight: bold;
